@@ -1,0 +1,12 @@
+{
+ "datos": {
+  "id": "EnviadorPlacas",
+  "version": "1.13.1",
+  "instalador": "https://raw.githubusercontent.com/estebanrodriguezach-debug/enviador-actualizaciones/main/EnviadorPlacas-Setup.exe",
+  "sha256": "e41efa16f45dc7ca7c7e7e30f03e56e6f3586a8ca531acb654045d68cd3ddbdb",
+  "tamano": 95416119,
+  "notas": "Al volver a abrir el programa ya no aparece el aviso de que está abierto: trae la ventana al frente o espera a que termine de cerrarse.",
+  "fecha": "2026-10-12"
+ },
+ "firma": "IcwpgPeSGCQXsXSYBRRgc4FEWxr5x2ovPUdcW8FkXTV3NXf9LnwG+CAYLPN6jJLrO/d7y+ryVqJk2ao8GxLYAw=="
+}
