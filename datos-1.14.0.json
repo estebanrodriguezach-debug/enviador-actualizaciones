@@ -1,0 +1,12 @@
+{
+ "datos": {
+  "id": "EnviadorPlacas",
+  "version": "1.14.0",
+  "instalador": "https://raw.githubusercontent.com/estebanrodriguezach-debug/enviador-actualizaciones/main/EnviadorPlacas-Setup.exe",
+  "sha256": "456634fe12ed0968044d7359d13416784959bf60da66ee8f54f0c1618352d13c",
+  "tamano": 95427763,
+  "notas": "Nueva pestaña Estadísticas: enviados, errores, respuestas y porcentajes por período, gráfico por día o mes y tabla por grupo, con los datos que ya tiene el Historial.",
+  "fecha": "2026-10-13"
+ },
+ "firma": "PEGAR_FIRMA_ACA"
+}
