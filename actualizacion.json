@@ -1,0 +1,12 @@
+{
+ "datos": {
+  "id": "EnviadorPlacasACH",
+  "version": "1.17.1",
+  "instalador": "https://raw.githubusercontent.com/estebanrodriguezach-debug/enviador-actualizaciones/ach/EnviadorPlacasACH-Setup.exe",
+  "sha256": "fafdfe1c061af6ddcb0ab11c9a29fb6144004c65d30d828394bc568c380c4edb",
+  "tamano": 95414647,
+  "notas": "Eliminar contactos: ahora funciona con los seleccionados o con los marcados con tilde (también con la tecla Supr), y los eliminados no vuelven con la planilla vinculada. Mejoras al borrar en Historial, No enviar más y Recordatorios.",
+  "fecha": "2026-10-16"
+ },
+ "firma": "s09dDenF930xJmXSY+KoGSseBpxqIbfocMIULrf7kLJkzOseJsNmaLrUmWfkugAn8BIYiwbCjU1isphjgViqAw=="
+}
