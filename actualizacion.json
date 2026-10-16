@@ -1,0 +1,12 @@
+{
+ "datos": {
+  "id": "EnviadorPlacas",
+  "version": "1.17.1",
+  "instalador": "https://raw.githubusercontent.com/estebanrodriguezach-debug/enviador-actualizaciones/main/EnviadorPlacas-Setup.exe",
+  "sha256": "434a9922dd2117e7cfa7d1ad2889878c8916de165deccd5763e475032d8bf359",
+  "tamano": 95515419,
+  "notas": "Eliminar contactos: ahora funciona con los seleccionados o con los marcados con tilde (también con la tecla Supr), y los eliminados no vuelven con la planilla vinculada. Mejoras al borrar en Historial, No enviar más y Recordatorios.",
+  "fecha": "2026-10-16"
+ },
+ "firma": "NINy3VGvwjqbFqENx7OrQnpFhMofoZuwwuek58AFYHf06q9CJ7/r3U7JTX3a5AKqQFwDrYSTf5sFcZ09fvrUCg=="
+}
