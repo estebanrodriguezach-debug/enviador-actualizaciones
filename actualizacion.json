@@ -1,0 +1,12 @@
+{
+ "datos": {
+  "id": "EnviadorPlacasACH",
+  "version": "1.17.5",
+  "instalador": "https://raw.githubusercontent.com/estebanrodriguezach-debug/enviador-actualizaciones/ach/EnviadorPlacasACH-Setup.exe",
+  "sha256": "9432c82f737d26aece2f5845784a3ee2b603a073c09e820e33994c50fac81f5e",
+  "tamano": 95419633,
+  "notas": "Corrige el envío de placas con el editor nuevo de WhatsApp: reconoce el botón 'Enviar 1 seleccionado' y el cuadro del mensaje de la imagen. La placa vuelve a salir con el mensaje debajo.",
+  "fecha": "2026-10-23"
+ },
+ "firma": "cqsHKgbgZ4RuXt4dUPp285178/6nZ2nRwEjEMcnmLAnrna7XD+4Gd/nWagoZZK+/bK4pY6ZbqiQqf7EEDmKKCg=="
+}
