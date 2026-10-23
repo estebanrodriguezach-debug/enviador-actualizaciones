@@ -1,0 +1,12 @@
+{
+ "datos": {
+  "id": "EnviadorPlacas",
+  "version": "1.17.5",
+  "instalador": "https://raw.githubusercontent.com/estebanrodriguezach-debug/enviador-actualizaciones/main/EnviadorPlacas-Setup.exe",
+  "sha256": "2d1bd8a242967f0ed6a66570174fddbb9916e25f59e510141568bf7157cef642",
+  "tamano": 95523053,
+  "notas": "Corrige el envío de placas con el editor nuevo de WhatsApp: reconoce el botón 'Enviar 1 seleccionado' y el cuadro del mensaje de la imagen. La placa vuelve a salir con el mensaje debajo.",
+  "fecha": "2026-10-23"
+ },
+ "firma": "M+scaSPudJhzkInGK2GziRfNT1VCcUpSYUfJWg6MgEQAXMXY5LxklmoHuH1Bqg3SfRtsn9D4t7IcBwYQkuhZAg=="
+}
